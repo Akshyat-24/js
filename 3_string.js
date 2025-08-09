@@ -38,3 +38,16 @@ console.log(anotherstringone); /// removes all the side spaces
 
   console.log(suii.split('-'));
   // in the bracket you can write space or any thing that is int the string like htere was ( - )
+
+
+
+
+  //String Interpolation
+
+
+  const h = " Akshyat "
+  const w = " kumar "
+
+  console.log(`My Name is ${h} ${w}`);
+  
+
